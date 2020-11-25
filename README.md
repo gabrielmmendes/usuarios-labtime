@@ -1,5 +1,5 @@
 # usuarios-labtime
-### Projeto para a Seleção Desenvolvedor Tecnológico 2020, feita pela equipe LabTime, com o objetivo de criar uma API para consultar um banco de dados PostgreSQL, após ser modelado para uma base de dados, e devolver um JSON com as informações utilizando Spring Boot.
+#### Projeto para a Seleção Desenvolvedor Tecnológico 2020, feita pela equipe LabTime, com o objetivo de criar uma API para consultar um banco de dados PostgreSQL, após ser modelado para uma base de dados, e devolver um JSON com as informações utilizando Spring Boot.
 
 Resultado alcançado:
 ```
